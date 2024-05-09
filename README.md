@@ -1,6 +1,6 @@
-# Predictive Stock Analysis
+# TheStockPredictorSBX
 
-Predictive Stock Analysis is a Python project that aims to predict future stock prices using historical stock data. This project utilizes machine learning algorithms, particularly LSTM (Long Short-Term Memory) networks, to forecast stock prices based on past performance. By analyzing trends and patterns in the data, it provides insights that can assist investors in making informed decisions.
+TheStockPredictorSBX is a Python project that aims to predict future stock prices using historical stock data. This project utilizes machine learning algorithms, particularly LSTM (Long Short-Term Memory) networks, to forecast stock prices based on past performance. By analyzing trends and patterns in the data, it provides insights that can assist investors in making informed decisions.
 
 ## Features
 
